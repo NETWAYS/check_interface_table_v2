@@ -1,0 +1,29 @@
+name: check_interface_table_v2
+description: "file:///README.md"
+url: "https://www.netways.org/projects/plugins"
+tags: ~
+vendor: NETWAYS
+target: Network
+type: Plugin
+license: gplv2
+releases: 
+  - 
+    name: 1.0
+    description: "1.0 Release"
+    files: 
+      - 
+        name: check_interface_table_v2.pl
+        url: "file:///check_interface_table_v2.pl"
+        description: none
+        checksum: 480f5a6991dfd17f86197a63fc9a1b2b
+      - 
+        name: check_interface_table_v2.cfg
+        url: "file:///check_interface_table_v2.cfg"
+        description: "Icinga 1.x configuration examples"
+        checksum: 260940e10b0a90242baf26e18ade186e
+      - 
+        name: InterfaceTableReset.cgi
+        url: "file:///InterfaceTableReset.cgi"
+        description: none
+        checksum: 9c2aaa876190c5572ab090c669959727
+
